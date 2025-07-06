@@ -1,0 +1,6 @@
+Story,Task,Estimate min (hr),Estimate max (hr),Actual,Comment
+Setup,Initialize repo and folder structure,0.25,0.5,,Initial Git setup and scaffolding
+Setup,Add requirements.txt,0.1,0.25,,Includes FastAPI
+Setup,Create sample_data/sample.json,0.1,0.25,,Add provided chunk sample
+Setup,Write time_estimates.csv,0.1,0.25,,Planning estimates and structure
+Setup,Write initial README.md,0.25,0.5,,Project intro and goals
