@@ -1,8 +1,8 @@
 - [x] Create project folder + Git repo
-- [ ] Download and inspect sample chunk JSON
-- [ ] Create and fill out the time estimation CSV (first commit)
-- [ ] Set up virtual environment and dependencies (fastapi, uvicorn, weaviate-client, sentence-transformers, etc.)
-- [ ] Define high-level file structure (api/, ingestion/, db/, models/, etc.)
+- [x] Download and inspect sample chunk JSON
+- [x] Create and fill out the time estimation CSV (first commit)
+- [x] Set up virtual environment and dependencies (fastapi, uvicorn, weaviate-client, sentence-transformers, etc.)
+- [x] Define high-level file structure (api/, ingestion/, db/, models/, etc.)
 
 📥 1. Ingestion Pipeline (Design + Code)
 - [ ] Implement file detection (simulate or hard-code for now)
